@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/giphy.webp">
+</p>
+
 <!--
 **patriagani/patriagani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
