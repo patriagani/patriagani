@@ -3,8 +3,10 @@
 <p align="center">
   <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/giphy.webp">
   <br>
-  Codewars
-  <img src="https://www.codewars.com/users/patriagani/badges/large>
+  <br>
+  <b>Codewars :</b>
+  <br>
+  <img style="padding-top: 10px" src="https://www.codewars.com/users/patriagani/badges/large">
 </p>
 
 <!--
