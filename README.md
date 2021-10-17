@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/giphy.webp">
+  <br>
+  Codewars
+  <img src="https://www.codewars.com/users/patriagani/badges/large>
 </p>
 
 <!--
