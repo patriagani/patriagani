@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/giphy.webp"> -->
-  <img src="https://c.tenor.com/Yd-6Fe5JNj4AAAAd/zenitsu-kimetsu-no-yaiba.gif">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-7ba9d6c83f5c3d8d27cf69b11d867698">
   <br>
   <br>
   <b>Codewars :</b>
