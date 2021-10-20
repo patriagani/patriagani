@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/giphy.webp">
+  <!-- <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/giphy.webp"> -->
+  <img src="https://c.tenor.com/Yd-6Fe5JNj4AAAAd/zenitsu-kimetsu-no-yaiba.gif">
   <br>
   <br>
   <b>Codewars :</b>
